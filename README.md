@@ -2,4 +2,4 @@ U ovom repozitoriju se nalazi interaktivna aplikacija za Android napravljena u U
 
 U BlenderModel branchu se nalaze osnovni fajlovi koji su mi trebali da modeliram sam cvijet, dok u UnityProject branchu se nalazi kompletan projekat iz Unity-ja pri čemu neki od paketa će možda nanovo morati biti instalirani s obzirom da sam određene ekstenzije stavio u .gitignore zbog Githubovih limitacija pri pushanju.
 
-U releases se nalazi sam apk fajl Android aplikacije.
+U Releases na Github stranici repozitorija se nalazi sam apk fajl Android aplikacije.
