@@ -1,1 +1,1 @@
-U ovom branchu se nalaze screenshotovi, ali i ostale slike koje sam koristio kao teksture za model vodenike, ali i njene okoline. Također priloženi su i .blend i .fbx fajl koje sam dalje importovao u Unity. Recognition3 je slika koja će se u aplikaciji koristiti za AR recognition.
+U ovom branchu se nalaze screenshotovi, ali i ostale slike koje sam koristio kao teksture za model vodenike kao i njene okoline. Također priloženi su i .blend i .fbx fajl koje sam dalje importovao u Unity. Recognition3 je slika koja će se u aplikaciji koristiti za AR recognition.
